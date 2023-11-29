@@ -9,11 +9,11 @@ export const MainContent = () => {
                 <div className="row d-flex justify-content-center">
                     <div className="col-12 col-md-6 d-none d-md-block order-md-1">
                         <Image
-                            src="/images/image 4.png"
+                            src="/images/image_4.png"
                             width={575}
                             height={591}
-                            alt="image 4"
-                            id="image 4"
+                            alt="image_4"
+                            id="image_4"
                             className="img-fluid"
                         />
                         <div className="d-flex justify-content-center py-3 px-5">
@@ -78,11 +78,11 @@ export const MainContent = () => {
                         </div>
                         <div className="col-12 d-md-none d-block my-3">
                             <Image
-                                src="/images/image 4.png"
+                                src="/images/image_4.png"
                                 width={575}
                                 height={591}
-                                alt="image 4"
-                                id="image 4"
+                                alt="image_4"
+                                id="image_4"
                                 className="img-fluid"
                             />
                         </div>
@@ -252,11 +252,11 @@ export const MainContent = () => {
                             <div className="col-12 row stamp mt-4">
                                 <div className="col-4">
                                     <Image
-                                        src="/images/image 6.png"
+                                        src="/images/image_6.png"
                                         width={88}
                                         height={88}
-                                        alt="image 6"
-                                        id="image 6"
+                                        alt="image_6"
+                                        id="image_6"
                                         className="img-fluid"
                                     />
                                 </div>
