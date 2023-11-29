@@ -1,6 +1,8 @@
 # ejam-selection-process
  Selection process that consisted of coding a design made in Figma in the most comfortable language. Resolve to use NextJs with TypeScript
 
+ Link to access: https://clarifion-upsell-ejam-task.netlify.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
